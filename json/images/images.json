@@ -1,0 +1,61 @@
+[{
+    "id": "1",
+    "url": "https://images.pexels.com/photos/3637538/pexels-photo-3637538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-card"
+},
+{
+    "id": "2",
+    "url": "https://images.pexels.com/photos/13189375/pexels-photo-13189375.jpeg?cs=srgb&dl=pexels-fox-13189375.jpg&fm=jpg",
+    "category": "filter-web"
+},
+{
+    "id": "3",
+    "url": "https://images.pexels.com/photos/212323/pexels-photo-212323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-card"
+},
+{
+    "id": "4",
+    "url": "https://images.pexels.com/photos/3356058/pexels-photo-3356058.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-web"
+},
+{
+    "id": "5",
+    "url": "https://images.pexels.com/photos/6208468/pexels-photo-6208468.jpeg?cs=srgb&dl=pexels-d%C5%BEenis-hasanica-6208468.jpg&fm=jpg",
+    "category": ""
+},
+{
+    "id": "6",
+    "url": "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-card"
+},
+{
+    "id": "7",
+    "url": "https://images.pexels.com/photos/12791096/pexels-photo-12791096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-web"
+},
+{
+    "id": "8",
+    "url": "https://raw.githubusercontent.com/LineageOS/android_vendor_lineage/lineage-19.1/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
+    "category": "filter-app"
+},{
+    "id": "9",
+    "url": "https://images.pexels.com/photos/10947448/pexels-photo-10947448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-card"
+},{
+    "id": "10",
+    "url": "https://images.pexels.com/photos/2463392/pexels-photo-2463392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-app"
+},{
+    "id": "11",
+    "url": "https://images.pexels.com/photos/12791096/pexels-photo-12791096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-app"
+},{
+    "id": "12",
+    "url": "https://images.pexels.com/photos/2695312/pexels-photo-2695312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-card"
+},{
+    "id": "13",
+    "url": "https://images.pexels.com/photos/7440381/pexels-photo-7440381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "filter-web"
+}
+]
